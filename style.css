@@ -11,6 +11,8 @@
     background-position: center;
     background-attachment: fixed;
     display: table;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .container2 {
@@ -21,6 +23,8 @@
     background-position: center;
     background-attachment: fixed;
     display: table;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .container3 {
@@ -31,6 +35,8 @@
     background-position: center;
     background-attachment: fixed;
     display: table;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 
